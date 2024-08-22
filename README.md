@@ -1,24 +1,44 @@
-# Привет, я Шиба 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shiba</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Увлеченный+разработчик+Go;Всегда+открыт+к+новым+знаниям&font=Fira%20Code&center=true&width=440&height=45&color=000&vCenter=true&size=22">
-</p>
+<br>
 
-Я занимаюсь программированием уже год, и мой первый язык — Go, который остаётся основным. Моё обучение я прошёл на годовом курсе от Яндекс в LMS, и с тех пор продолжаю развиваться в этой сфере.
+<!-- [![Linkedin: iiiuba](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/iiiuba/)  -->
+![GitHub followers](https://img.shields.io/github/followers/IIIUBA?label=Follow&style=social) 
+<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://iiiuba.dev/)](https://anmolsingh.me/)  -->
 
-В свободное время я увлекаюсь созданием азартных скриптов, что позволяет мне применять и развивать свои навыки программирования в более творческой форме. Я также обладаю опытом работы с библиотеками, такими как `telegram-bot-api` и `SQLite`, а также с базовыми библиотеками и системой контроля версий GIT. Мой опыт работы в команде позволяет мне эффективно сотрудничать с другими разработчиками и справляться с совместными проектами.
+<h3 align = "center">
+<b>
+Connect with me: </b><br>
+<br>
+<!--  <a href="https://twitter.com/Beardy_Weird"><img align="center" title="Twitter - Kanav Arora" alt="Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>  -->
+<a href="https://www.linkedin.com/in/maksim-shiba-b126b9324/"><img align="center" title="LinkedIn - Maksim Shiba" alt="LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/"><img align="center" title="Instagram - Maksim" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://meta.stackexchange.com/"><img align="center" title="Stack Overflow - Maksim" alt="Stack Overflow" width="160px" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+<a href="gmail"><img align="center" title="Mail - Maksim" alt="Mail" width="90px" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-## 📊 GitHub Статистика
+<br>
+<br>
+  
+Programming Languages I work with: <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IIIUBA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IIIUBA&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img align="center" title="Golang" alt="Golang" width="80px" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img align="center" title="Git" alt="Git" width="80px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+<img align="center" title="HTML5" alt="HTML5" width="120px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img align="center" title="CSS3" alt="CSS3" width="105" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  
+<br>
+<br>
 
-## 🤝 Связаться со мной
+Tools I use: <br>
 
-<p align="center">
-  <a href="https://t.me/Aleeeeph">
-    <img src="https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="160px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img align="center" title="GoLand" alt="JetBrains GoLand" width="120px" src="https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=jetbrains&logoColor=white" />
+<img align="center" title="Discord" alt="Discord" width="120px" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
+<img align="center" title="GitHub" alt="GitHub" width="120" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img align="center" title="Android" alt="Android" width="105" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</h3>
+
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IIIUBA&theme=dark&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
