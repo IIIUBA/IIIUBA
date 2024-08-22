@@ -9,6 +9,7 @@ Connect with me: </b><br>
 <!--  <a href="https://twitter.com/Beardy_Weird"><img align="center" title="Twitter - Kanav Arora" alt="Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>  -->
 <a href="https://www.linkedin.com/in/maksim-shiba-b126b9324/"><img align="center" title="LinkedIn - Maksim Shiba" alt="LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/"><img align="center" title="Instagram - Maksim" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.com/users/651985370438696981"><img align="center" title="Discord" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
 <a href="https://meta.stackexchange.com/"><img align="center" title="Stack Overflow - Maksim" alt="Stack Overflow" width="160px" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
 <a href="gmail"><img align="center" title="Mail - Maksim" alt="Mail" width="90px" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
@@ -29,7 +30,6 @@ Tools I use: <br>
 
 <img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="160px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img align="center" title="GoLand" alt="JetBrains GoLand" width="120px" src="https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=jetbrains&logoColor=white" />
-<img align="center" title="Discord" alt="Discord" width="120px" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
 <img align="center" title="GitHub" alt="GitHub" width="120" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img align="center" title="Android" alt="Android" width="105" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </h3>
