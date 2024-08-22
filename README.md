@@ -7,7 +7,7 @@
 Connect with me: </b><br>
 <br>
 <!--  <a href="https://twitter.com/Beardy_Weird"><img align="center" title="Twitter - Kanav Arora" alt="Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>  -->
-<a href="https://www.linkedin.com/in/maksim-shiba-b126b9324/"><img align="center" title="LinkedIn - Maksim Shiba" alt="LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/maksim-shiba-b126b9324/"><img align="center" title="LinkedIn - Maksim Shiba" alt="LinkedIn" width="110px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/"><img align="center" title="Instagram - Maksim" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="https://discord.com/users/651985370438696981"><img align="center" title="Discord" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
 <a href="https://meta.stackexchange.com/"><img align="center" title="Stack Overflow - Maksim" alt="Stack Overflow" width="160px" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
