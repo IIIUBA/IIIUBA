@@ -41,4 +41,66 @@ Tools I use: <br>
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IIIUBA&theme=dark&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌆 Daytime                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌃 Evening                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+🌙 Night                  25 commits          ████████████████░░░░░░░░░   64.10 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   9 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                10 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Thursday                 4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Sunday                   12 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Krasnoyarsk
+
+💬 Programming Languages: 
+Go                       9 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+GoLand                   9 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  9 mins              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Go** 
+
+```text
+Go                       4 repos             █████████████████████████   100.00 % 
+```
+
+
+
+
+ Last Updated on 22/08/2024 05:03:54 UTC
 <!--END_SECTION:waka-->
