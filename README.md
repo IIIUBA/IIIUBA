@@ -35,8 +35,10 @@ Tools I use: <br>
 </h3>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IIIUBA&theme=dark&show_icons=true&locale=en" alt="Kanav-Arora" width="450" height="250" /></p>
+
 <br>
 <br>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
