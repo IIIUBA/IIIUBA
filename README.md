@@ -41,4 +41,14 @@ Tools I use: <br>
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 20 August 2024 - To: 22 August 2024
+
+Total Time: 1 hr 33 mins
+
+Go     1 hr 4 mins     >>>>>>>>>>>>>>>>>--------   69.20 %
+Lua    28 mins         >>>>>>>>-----------------   30.55 %
+HTML   0 secs          -------------------------   00.24 %
+```
+
 <!--END_SECTION:waka-->
