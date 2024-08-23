@@ -41,4 +41,10 @@ Tools I use: <br>
 
 <!--START_SECTION:waka-->
 
+```txt
+Go     1 hr 4 mins     █████████████████▒░░░░░░░   69.20 %
+Lua    28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.55 %
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+```
+
 <!--END_SECTION:waka-->
