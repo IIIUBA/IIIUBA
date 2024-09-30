@@ -40,9 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2011%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20thousand%20lines%20of%20code-blue)
 
@@ -85,16 +83,13 @@ Sunday                   12 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-Go                       40 mins             ██████████████████░░░░░░░   73.89 % 
-HTML                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Go                       2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,5 +101,5 @@ Go                       4 repos             ███████████�
 
 
 
- Last Updated on 22/09/2024 00:50:33 UTC
+ Last Updated on 30/09/2024 13:02:02 UTC
 <!--END_SECTION:waka-->
