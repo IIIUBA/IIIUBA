@@ -40,15 +40,13 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 192 Bytes Used in GitHub's Storage 
  > 
 > 🏆 63 Contributions in the Year 2024
  > 
@@ -85,13 +83,17 @@ Sunday                   12 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-Go                       1 hr 58 mins        █████████████████████████   100.00 % 
+Go                       1 hr 5 mins         ██████████████████████░░░   87.50 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
+Linux                    48 mins             ████████████████░░░░░░░░░   63.88 % 
+Windows                  27 mins             █████████░░░░░░░░░░░░░░░░   36.12 % 
 ```
 
 **I Mostly Code in Go** 
@@ -103,5 +105,5 @@ Go                       5 repos             ███████████�
 
 
 
- Last Updated on 30/10/2024 00:47:26 UTC
+ Last Updated on 06/11/2024 12:23:41 UTC
 <!--END_SECTION:waka-->
