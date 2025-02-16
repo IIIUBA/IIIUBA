@@ -40,15 +40,15 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 286 Bytes Used in GitHub's Storage 
+> 📦 287 Bytes Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2025
  > 
@@ -85,17 +85,17 @@ Sunday                   14 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-Go                       18 hrs 40 mins      ████████████████████░░░░░   78.81 % 
-YAML                     4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Batchfile                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Go                       15 hrs 36 mins      ███████████████████░░░░░░   75.79 % 
+YAML                     4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Batchfile                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -107,5 +107,5 @@ Go                       7 repos             ███████████�
 
 
 
- Last Updated on 15/02/2025 00:46:14 UTC
+ Last Updated on 16/02/2025 00:52:11 UTC
 <!--END_SECTION:waka-->
