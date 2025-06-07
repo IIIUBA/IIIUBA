@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -50,7 +50,7 @@ Tools I use: <br>
 
 > 📦 2.0 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,5 +107,5 @@ Go                       10 repos            ███████████�
 
 
 
- Last Updated on 06/06/2025 00:55:57 UTC
+ Last Updated on 07/06/2025 00:55:43 UTC
 <!--END_SECTION:waka-->
