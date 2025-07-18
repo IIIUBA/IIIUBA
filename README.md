@@ -50,8 +50,6 @@ Tools I use: <br>
 
 > 📦 3.6 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -107,5 +105,5 @@ Go                       10 repos            ███████████�
 
 
 
- Last Updated on 17/07/2025 01:00:43 UTC
+ Last Updated on 18/07/2025 01:00:01 UTC
 <!--END_SECTION:waka-->
