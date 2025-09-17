@@ -40,8 +40,6 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20thousand%20lines%20of%20code-blue)
@@ -50,48 +48,14 @@ Tools I use: <br>
 
 > 📦 3.6 kB Used in GitHub's Storage 
  > 
+> 🏆 12 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-🌆 Daytime                39 commits          █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-🌙 Night                  35 commits          ████████░░░░░░░░░░░░░░░░░   30.70 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Wednesday                21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Thursday                 25 commits          █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Saturday                 25 commits          █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Krasnoyarsk
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -101,5 +65,5 @@ Go                       10 repos            ███████████�
 
 
 
- Last Updated on 16/09/2025 00:50:58 UTC
+ Last Updated on 17/09/2025 00:50:56 UTC
 <!--END_SECTION:waka-->
