@@ -40,7 +40,7 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -85,13 +85,15 @@ Sunday                   17 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Krasnoyarsk
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               17 mins             ████████████████████████░   94.86 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -103,5 +105,5 @@ Go                       10 repos            ███████████�
 
 
 
- Last Updated on 26/12/2025 00:59:21 UTC
+ Last Updated on 27/12/2025 00:57:38 UTC
 <!--END_SECTION:waka-->
