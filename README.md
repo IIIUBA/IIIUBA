@@ -40,30 +40,73 @@ Tools I use: <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.06%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.22%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌆 Daytime                39 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                34 commits          ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+🌙 Night                  35 commits          ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Thursday                 25 commits          █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Saturday                 25 commits          █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Sunday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Krasnoyarsk
+
+💬 Programming Languages: 
+Python                   1 hr 48 mins        ████████████████████░░░░░   80.39 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Go                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
-Go                       10 repos            █████████████████████████   100.00 % 
+Go                       10 repos            ███████████████████████░░   90.91 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 04/01/2026 01:07:00 UTC
+ Last Updated on 06/01/2026 01:00:40 UTC
 <!--END_SECTION:waka-->
